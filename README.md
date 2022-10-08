@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=giantsweetroll" alt="giantsweetroll" /></a> </p>
 
-- 🌱 I’m currently learning **Babylon.js, Multiplayer Unity, Artificial Intelligence**
+- 🌱 I’m currently learning **Unity, Artificial Intelligence, and Multicore and GPU Programming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
